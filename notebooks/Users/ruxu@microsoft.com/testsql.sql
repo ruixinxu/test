@@ -1,5 +1,6 @@
 -- Databricks notebook source
-test
+SELECT * From table1
 
 -- COMMAND ----------
 
+SHOW TABLES
