@@ -8,3 +8,7 @@ var b =2
 // COMMAND ----------
 
 var c = a + b
+
+// COMMAND ----------
+
+var d = c+1
